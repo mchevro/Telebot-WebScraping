@@ -3,6 +3,8 @@ Reference : https://github.com/irevenko/info-bot & https://pypi.org/project/pyTe
 <br>
 <br>
 # How To Run 
+enter the token bot fathers
+<br>
 wget https://github.com/mchevro/Telebot-WebScraping/archive/master.zip 
 <br>
 unzip master.zip
