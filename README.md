@@ -2,8 +2,8 @@
 Reference : https://github.com/irevenko/info-bot & https://pypi.org/project/pyTelegramBotAPI/
 <br>
 <br>
-# How To Run 
-enter the token bot fathers
+# Cara Jalan
+Ganti isi file /modul/config dengan token bot father
 <br>
 wget https://github.com/mchevro/Telebot-WebScraping/archive/master.zip 
 <br>
